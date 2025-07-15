@@ -5,4 +5,6 @@ langchain-community
 pypdf
 faiss-cpu
 duckduckgo-search
-python-dotenv       
+python-dotenv
+grpcio==1.62.2
+protobuf==4.25.3
